@@ -1,0 +1,47 @@
+h2{
+    text-align: center;
+}
+.navbar ul{
+    list-style-type: none;
+    background-color: hsl(0, 0%, 32%);
+    padding: 0px;
+    margin: 0px;
+overflow: hidden;
+}
+.navbar a{
+    color: white;
+    text-decoration: none;
+    padding: 15px;
+    display: block;
+    text-align: center; 
+    
+}
+.navbar a:hover{
+    background-color: hsl(0, 0%, 15%) ;
+}
+.navbar li{
+    float: left;
+}
+footer{
+ background-color:hsla(56, 29%, 51%, 0.6) ;
+}
+body{
+    background-color:rgb(136, 60, 133)
+}
+h2{
+    color:bisque
+}
+hr{
+    color:bisque
+}
+p{
+    color:bisque
+}
+/* Change color of all terms (dt) */
+dl dt {
+    color: bisque;
+}
+/* Change color of all terms (dd) */
+dl dd {
+    color: rgb(2, 0, 0);
+}
